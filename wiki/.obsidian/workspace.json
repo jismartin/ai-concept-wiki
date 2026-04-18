@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "de6ac02cb9dc416d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f02a22cf1fb79b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104d19f864e1e508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fairness-bias/human-centered-intelligence-assessment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "human-centered-intelligence-assessment"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fa537b191e3f06d",
+    "type": "split",
+    "children": [
+      {
+        "id": "11c017b2c48085d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f0ecb12a1a16b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "357ada05c71561da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "baee9547788db95b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2dd7d4d65a4a565",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a4f3750d241887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5a049de5f1949e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "38dda7690d9c40a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "5fcea90c771a572d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "bd85b12e7103072e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ccefa6cb7b08159d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "104d19f864e1e508",
+  "lastOpenFiles": [
+    "ai-ethics/current-ai-risk-surface.md",
+    "fairness-bias/human-centered-intelligence-assessment.md",
+    "_index.md",
+    "_pending.md",
+    "reasoning/language-thought-dissociation.md",
+    "reasoning/intelligence-as-suitcase-word.md",
+    "reasoning/few-shot-generalization.md",
+    "reasoning/embodied-developmental-learning.md",
+    "llm-fundamentals/mechanistic-interpretability.md",
+    "llm-fundamentals/llm-hallucination-as-hypothesis-generation.md",
+    "llm-fundamentals/large-language-model-role-play.md",
+    "ai-ethics/artificial-general-intelligence-as-an-ill-defined-target.md"
+  ]
+}
